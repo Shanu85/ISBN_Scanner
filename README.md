@@ -4,10 +4,12 @@ average rating and description) related to book.
 
 Now, When you first time install the app, it will ask for camera permissions. 
 
-<img src="https://user-images.githubusercontent.com/63155782/149368298-3a05ff14-61b1-4fe3-a8a3-7ef4870033d6.jpeg"  height="500">
+<img src="https://user-images.githubusercontent.com/63155782/149368298-3a05ff14-61b1-4fe3-a8a3-7ef4870033d6.jpeg"  height="700">
 
 When you give the camera permissions to app, then it will display a scan button. You can also manually input the ISBN code. 
-![WhatsApp Image 2022-01-13 at 9 36 40 PM (1)](https://user-images.githubusercontent.com/63155782/149368406-bb46594e-3aae-42ee-9b2c-576d816b43bf.jpeg)
+
+<img src="https://user-images.githubusercontent.com/63155782/149368406-bb46594e-3aae-42ee-9b2c-576d816b43bf.jpeg"  height="700">
+
 
 When you click on SCAN button it will open the camera and start scanning ISBN code.
 ![WhatsApp Image 2022-01-13 at 9 37 22 PM](https://user-images.githubusercontent.com/63155782/149368482-ec4d5c0c-e1ae-4d85-b209-be8611abba1b.jpeg)
