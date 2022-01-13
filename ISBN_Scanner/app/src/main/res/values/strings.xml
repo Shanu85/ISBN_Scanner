@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ISBN_Scanner</string>
+    <string name="submit">Submit</string>
+    <string name="scan">Scan</string>
+    <string name="enter_isbn_number">Enter ISBN Number</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_hello">Author : Hello</string>
+    <string name="publisher_name">Publisher : Name</string>
+    <string name="category_comedy">Category : Comedy</string>
+    <string name="average_rating_3_5">Average Rating : 3.5</string>
+    <string name="page_count_250">Page Count : 250</string>
+    <string name="published_date_2030">Published date : 2030</string>
+    <string name="description_hello">Description : Hello</string>
+</resources>
