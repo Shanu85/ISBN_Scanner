@@ -3,7 +3,8 @@ This is a ISBN scanner app which scans or take manual input of ISBN code and the
 average rating and description) related to book.
 
 Now, When you first time install the app, it will ask for camera permissions. 
-![WhatsApp Image 2022-01-13 at 9 38 52 PM](https://user-images.githubusercontent.com/63155782/149368298-3a05ff14-61b1-4fe3-a8a3-7ef4870033d6.jpeg)
+
+<img src="https://user-images.githubusercontent.com/63155782/149368298-3a05ff14-61b1-4fe3-a8a3-7ef4870033d6.jpeg" width="200" height="200">
 
 When you give the camera permissions to app, then it will display a scan button. You can also manually input the ISBN code. 
 ![WhatsApp Image 2022-01-13 at 9 36 40 PM (1)](https://user-images.githubusercontent.com/63155782/149368406-bb46594e-3aae-42ee-9b2c-576d816b43bf.jpeg)
