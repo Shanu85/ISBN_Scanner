@@ -23,7 +23,7 @@ Then it will display all the information about the book.
 
 ISBN Code : 
 
-<img src="https://user-images.githubusercontent.com/63155782/149368609-18732532-bb6a-4e70-b31b-8a51581cc4a8.jpeg"  height="700">
+<img src="https://user-images.githubusercontent.com/63155782/149368609-18732532-bb6a-4e70-b31b-8a51581cc4a8.jpeg"  height="200">
 
 
 Thanks for Reading :smile:
