@@ -12,16 +12,19 @@ When you give the camera permissions to app, then it will display a scan button.
 
 
 When you click on SCAN button it will open the camera and start scanning ISBN code.
-![WhatsApp Image 2022-01-13 at 9 37 22 PM](https://user-images.githubusercontent.com/63155782/149368482-ec4d5c0c-e1ae-4d85-b209-be8611abba1b.jpeg)
+
+<img src="https://user-images.githubusercontent.com/63155782/149368482-ec4d5c0c-e1ae-4d85-b209-be8611abba1b.jpeg"  height="700">
 
 After getting ISBN code you can click on SEARCH button.
 
 Then it will display all the information about the book.
-![WhatsApp Image 2022-01-13 at 9 36 40 PM (2)](https://user-images.githubusercontent.com/63155782/149368544-b561f84d-fed7-4f46-b390-3f8ac201de40.jpeg)
 
+<img src="https://user-images.githubusercontent.com/63155782/149368544-b561f84d-fed7-4f46-b390-3f8ac201de40.jpeg"  height="700">
 
 ISBN Code : 
-![WhatsApp Image 2022-01-13 at 9 36 40 PM](https://user-images.githubusercontent.com/63155782/149368609-18732532-bb6a-4e70-b31b-8a51581cc4a8.jpeg)
+
+<img src="https://user-images.githubusercontent.com/63155782/149368609-18732532-bb6a-4e70-b31b-8a51581cc4a8.jpeg"  height="700">
+
 
 Thanks for Reading :smile:
 
